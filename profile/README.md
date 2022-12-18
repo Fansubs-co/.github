@@ -1,3 +1,9 @@
+<p align="center">
+   <a href="https://fansubs.co/"><img src="https://fansubs.co/img/logo-fansubs.co.png" width="500px"></a>
+</p>
+
+---
+
 Fansubs.co Github sayfasına hoşgeldiniz.
 
 Fansubs.co, Fansub sektörünün içinde yıllarca tecrübesi olan kişiler tarafından oluşturulan bir Organizasyondur. Öncelikli hedefimiz sektörün gelişmesinde,
